@@ -1,0 +1,14 @@
+<manifest>
+    <main-class>com.rampage.bots.gold_smelter.goldSmelt</main-class>
+    <name>Rampage's Gold Smelter</name>
+    <description>Smelts gold at Al Kharid</description>
+    <version>0.0.1</version>
+
+    <compatibiliy>
+        <game-type>RS3</game-type>
+    </compatibiliy>
+
+    <categories>
+        <category>SMITHING</category>
+    </categories>
+</manifest>
