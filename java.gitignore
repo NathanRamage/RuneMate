@@ -1,2 +1,4 @@
 #ignore .jar files
 *.jar
+
+*.gitignore~
